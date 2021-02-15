@@ -2,7 +2,7 @@
 pragma solidity 0.6.12;
 pragma experimental ABIEncoderV2;
 
-import './IERC20.sol';
+import '@boringcrypto/boring-solidity/contracts/interfaces/IERC20.sol';
 import './IBatchFlashBorrower.sol';
 import './IFlashBorrower.sol';
 import './IStrategy.sol';

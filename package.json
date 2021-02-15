@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "SDK for BentoBoxV1",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@boringcrypto/boring-solidity": "boringcrypto/BoringSolidity#0257ecf"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
