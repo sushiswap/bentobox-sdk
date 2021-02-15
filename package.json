@@ -1,0 +1,21 @@
+{
+  "name": "bentobox-sdk",
+  "version": "1.0.0",
+  "description": "SDK for BentoBoxV1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushiswap/bentobox-sdk.git"
+  },
+  "author": "BoringCrypto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushiswap/bentobox-sdk/issues"
+  },
+  "homepage": "https://github.com/sushiswap/bentobox-sdk#readme"
+}
