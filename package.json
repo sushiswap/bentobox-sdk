@@ -1,6 +1,6 @@
 {
   "name": "@sushiswap/bentobox-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK for BentoBoxV1",
   "main": "index.js",
   "dependencies": {
